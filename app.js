@@ -52,7 +52,7 @@ app.use(session({
     })
 }));
 
-console.log('Here the first change')
+
 console.log('Here the second change')
 
 // a body parser to allow us to parse form submissions
